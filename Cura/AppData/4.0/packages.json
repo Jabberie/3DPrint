@@ -1,0 +1,95 @@
+{
+    "installed": {
+        "CustomSupports": {
+            "filename": "C:\\Users\\aaron\\AppData\\Local\\cura\\4.0\\cache\\cura_packages\\CustomSupports.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "lokster",
+                    "display_name": "Krasimir Stefanov",
+                    "email": "lokiisyourmaster@gmail.com",
+                    "website": "http://lokspace.eu"
+                },
+                "description": "Cura plugin, which enables you to add custom supports!",
+                "display_name": "Custom Supports",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "CustomSupports",
+                "package_type": "plugin",
+                "package_version": "0.0.4",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "http://lokspace.eu/cura-custom-supports-plugin/"
+            }
+        },
+        "OctoPrintPlugin": {
+            "filename": "C:\\Users\\aaron\\AppData\\Local\\cura\\4.0\\cache\\cura_packages\\OctoPrintPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Enables networked printing and monitoring with OctoPrint.",
+                "display_name": "OctoPrint Connection",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "OctoPrintPlugin",
+                "package_type": "plugin",
+                "package_version": "3.5.4",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/fieldOfView/Cura-OctoPrintPlugin"
+            }
+        },
+        "OrientationPlugin": {
+            "filename": "C:\\Users\\aaron\\AppData\\Local\\cura\\4.0\\cache\\cura_packages\\OrientationPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "nallath",
+                    "display_name": "nallath",
+                    "email": "j.vankessel@ultimaker.com",
+                    "website": "http://www.github.com/nallath"
+                },
+                "description": "Extension that enables the automatic orientation of models to reduce the need for support. This wraps the MeshTweaker by Christoph Schranz, so it can be easily used in Cura. ",
+                "display_name": "Auto-Orientation",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "OrientationPlugin",
+                "package_type": "plugin",
+                "package_version": "3.2.1",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/nallath/CuraOrientationPlugin"
+            }
+        },
+        "SidebarGUIPlugin": {
+            "filename": "C:\\Users\\aaron\\AppData\\Local\\cura\\4.0\\cache\\cura_packages\\SidebarGUIPlugin.curapackage",
+            "package_info": {
+                "author": {
+                    "author_id": "fieldofview",
+                    "display_name": "fieldOfView",
+                    "email": "aldo@fieldofview.com",
+                    "website": "http://fieldofview.com"
+                },
+                "description": "Provides an alternative interface which restores the sidebar",
+                "display_name": "Sidebar GUI",
+                "is_active": true,
+                "is_bundled": false,
+                "is_installed": true,
+                "package_id": "SidebarGUIPlugin",
+                "package_type": "plugin",
+                "package_version": "4.0.0",
+                "sdk_version": 6,
+                "sdk_version_semver": "6.0.0",
+                "website": "https://github.com/fieldOfView/Cura-SidebarGUIPlugin"
+            }
+        }
+    },
+    "to_install": {},
+    "to_remove": [],
+    "version": 1
+}
